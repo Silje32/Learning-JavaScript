@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Open Sans", "sans-serif";
+  margin: 2 rem;
+  transition: background-color 0.3, color 0.5s;
+  text-align: center;
+}
+
+body.light-mode {
+  background-color: #f5e0dc;
+  color: #11111b;
+}
+
+body.dark-mode {
+  background-color: #babbf1;
+  color: #cdd6f4;
+}
+
+btn-style {
+  background-color: #babbf1;
+  border: none;
+  width: 30%;
+  border-radius: 8;
+}
