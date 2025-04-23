@@ -20,7 +20,11 @@ body.dark-mode {
   color: #11111b;
 }
 
-btn-style {
+/* 
+* My button class 
+*/
+
+.btn-style {
   background-color: #babbf1;
   border: none;
   width: 30%;
