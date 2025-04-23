@@ -1,5 +1,5 @@
 // ARRAY MED FORSKJELLIGE DATATYPER //
-let people = [
+let persons = [
   {
     name: "Alf",
     age: 65,
