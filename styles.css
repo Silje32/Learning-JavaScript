@@ -24,7 +24,7 @@ body.dark-mode {
 * My button class 
 */
 
-.btn-style {
+btn-style {
   background-color: #babbf1;
   border: none;
   width: 30%;
