@@ -44,7 +44,7 @@ calculatorButton.addEventListener("click", function calculateSum() {
       break;
   }
 
-  document.getElementById.ById("result").textContent = result;
+  document.getElementById("result").textContent = result;
 
   console.log("number1, number2, operator");
 });
